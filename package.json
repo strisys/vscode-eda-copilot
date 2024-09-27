@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/strisys/vscode-eda-copilot.git"
+   },
   "categories": [
     "Other"
   ],
